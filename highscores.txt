@@ -1,3 +1,5 @@
-Hallo Welt
-Hallo Teich
-Hallo Wald
+Tommy;100
+Maik;200
+Mark;300
+Test;0
+
